@@ -1,0 +1,14 @@
+main{
+    background-color: #2e2e2e;
+}
+
+.about-me{
+    background-color:#2e2e2e;
+    color:white;
+}
+
+#redes a:active,
+a:link,
+a:visited {
+    color: #2e2e2e;
+}
