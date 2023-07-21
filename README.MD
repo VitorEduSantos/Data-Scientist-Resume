@@ -4,7 +4,7 @@
 
 Currículo feito para a busca do primeiro emprego como desenvolvedor web
 
-[🔗Clique aqui para acessar](https://vitoredusantos.github.io/Web-Developer-Resume/)
+[🔗Clique aqui para acessar](https://vitoredusantos.github.io/Data-Scientist-Resume/)
 
 # 🛠Tecnologias
 
